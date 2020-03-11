@@ -1,6 +1,15 @@
 # Statistical Machine Learning
 
-## Ubuntu Setup
+## Useful links
+
+- [Stackexchange](https://stackexchange.com/)
+- [Github guide](https://guides.github.com/activities/hello-world/)
+- [Virtualenvs in python3](https://docs.python.org/3/library/venv.html)
+- [Beginners numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [Beginners pandas tutorial](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+- [Pyro 1.2.1 documentation](http://docs.pyro.ai/en/1.2.1/)
+
+## Linux Setup
 
 Download, clone or fork (your choice) this repository in a directory `PATH_TO_DIR/`.
 
@@ -25,3 +34,5 @@ python3 -m notebook
 ```
 
 To deactivate the environment use `deactivate` command.
+
+
