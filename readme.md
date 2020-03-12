@@ -1,5 +1,10 @@
 # Statistical Machine Learning
 
+## News
+
+- Please open the notebooks using jupyter, you will not be able to see pictures from the github preview.
+- Assignments will be uploaded in `homeworks/`.
+
 ## Useful links
 
 - [Stackexchange](https://stackexchange.com/)
