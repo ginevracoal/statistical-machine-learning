@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 attrs==19.1.0
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==3.1.0
+bleach==3.1.1
 configparser==3.7.4
 cryptography==2.1.4
 decorator==4.4.0
