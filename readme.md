@@ -3,7 +3,6 @@
 ## News
 
 - Please open the notebooks using jupyter, you will not be able to see pictures from the github preview.
-- Just install jupyter for now and skip the requirements, I need to solve an issue regarding "requirements.txt". You don't need any other package at the moment.
 - Assignments will be uploaded in `homeworks/`.
 
 ## Useful links
@@ -31,6 +30,7 @@ Now you should see `PATH_TO_DIR/statistical-machine-learning/venv/` folder.
 Activate the enviroment and install the requirements:
 ```
 source venv/bin/activate
+ipython kernel install --name=python3 --user
 pip3 install -r requirements.txt 
 ```
 
