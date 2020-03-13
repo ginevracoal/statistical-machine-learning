@@ -3,6 +3,7 @@
 ## News
 
 - Please open the notebooks using jupyter, you will not be able to see pictures from the github preview.
+- Just install jupyter for now and skip the requirements, I need to solve an issue regarding "requirements.txt". You don't need any other package at the moment.
 - Assignments will be uploaded in `homeworks/`.
 
 ## Useful links
