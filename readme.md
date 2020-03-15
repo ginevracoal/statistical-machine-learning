@@ -30,7 +30,6 @@ Now you should see `PATH_TO_DIR/statistical-machine-learning/venv/` folder.
 Activate the enviroment and install the requirements:
 ```
 source venv/bin/activate
-ipython kernel install --name=python3 --user
 pip3 install -r requirements.txt 
 ```
 
