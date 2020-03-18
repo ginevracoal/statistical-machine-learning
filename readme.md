@@ -1,8 +1,10 @@
 # Statistical Machine Learning
 
+If you have any problem or find some errors in the notebooks/homeworks please contact me at: **ginevra.carbone@phd.units.it**
+
 ## News
 
-- Please open the notebooks using jupyter, you will not be able to see pictures from the github preview.
+- Just updated `homework_01` (there was a typo in exercise 5)
 - Assignments will be uploaded in `homeworks/`.
 
 ## Useful links
