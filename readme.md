@@ -4,8 +4,7 @@ If you have any problem or find some errors in the notebooks/homeworks please co
 
 ## News
 
-- Just updated `homework_01` (there was a typo in exercise 5)
-- Assignments will be uploaded in `homeworks/`.
+- uploaded `homework_02`
 
 ## Useful links
 
