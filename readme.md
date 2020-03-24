@@ -23,7 +23,7 @@ Create a virtual environment using `python3` (commands are provided for *Debian-
 ```
 cd PATH_TO_DIR/statistical-machine-learning/
 sudo apt-get install python3-pip
-python3 -m pip install virtualenv
+python3 -m pip install --user virtualenv
 python3 -m virtualenv -p "$(which python3)" venv
 ```
 
