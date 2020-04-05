@@ -1,7 +1,8 @@
 # Statistical Machine Learning
 
-Please use the dedicated forum on moodle for questions on theory and exercises.
-If you find some errors in the notebooks/homeworks or if you need to ask personal questions contact me at: **ginevra.carbone@phd.units.it**
+Please use the **dedicated forum on moodle** for questions on theory and exercises.
+
+If you notice some errors in the notebooks/homeworks contact me at: **ginevra.carbone@phd.units.it**
 
 ## Useful links
 
