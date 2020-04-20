@@ -1,3 +1,4 @@
 references/
 venv/
 *.ipynb_checkpoints/
+*data/
