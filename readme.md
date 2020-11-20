@@ -2,7 +2,7 @@
 
 Please use the **dedicated forum on moodle** for questions on theory and exercises.
 
-If you notice some errors in the notebooks/homeworks contact me at: **ginevra.carbone@phd.units.it**
+If you notice some errors in the notebooks/homeworks contact me at: **<name@phd.units.it>** (name=ginevra.carbone)
 
 ## Useful links
 
