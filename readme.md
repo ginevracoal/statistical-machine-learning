@@ -3,8 +3,8 @@
 Please use the **dedicated forum on moodle** for questions on theory and exercises.
 
 If you notice some errors in the notebooks/homeworks contact me at: **<name@phd.units.it>** (name=ginevra.carbone)
-
-## Useful links
+	
+## Utils
 
 - [Stackexchange](https://stackexchange.com/)
 - [Github guide](https://guides.github.com/activities/hello-world/)
