@@ -1,4 +1,4 @@
-# Statistical Machine Learning
+# Probabilistic/Statistical Machine Learning
 
 Please use the **dedicated forum on moodle** for questions on theory and exercises.
 
