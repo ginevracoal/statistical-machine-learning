@@ -15,22 +15,21 @@ If you notice some errors in the notebooks/homeworks contact me at: **<name@phd.
 
 ## Linux Setup
 
-Code runs on python 3.6.9 and torch 1.4.0.
+Python version: 3.6.9
 Download, clone or fork (your choice) this repository in a directory `PATH_TO_DIR/`.
 
 Create a virtual environment using `python3` (commands are provided for *Debian-like* GNU/Linux distributions)
 ```
+sudo apt install -y python3-venv
 cd PATH_TO_DIR/statistical-machine-learning/
-sudo apt-get install python3-pip
-python3 -m pip install --user virtualenv
-python3 -m virtualenv -p "$(which python3)" venv
+python3.6 -m venv venv
 ```
 
 Now you should see `PATH_TO_DIR/statistical-machine-learning/venv/` folder.
 Activate the enviroment and install the requirements:
 ```
 source venv/bin/activate
-python3 -m pip install -r ./requirements.txt 
+pip install -r basic_requirements.txt
 ```
 
 Register the just-installed virtual environment for use with Jupyter:
