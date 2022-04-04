@@ -16,6 +16,7 @@ If you notice some errors in the notebooks/homeworks contact me at: **<name@phd.
 ## Linux Setup
 
 Python version: 3.6.9
+
 Download, clone or fork (your choice) this repository in a directory `PATH_TO_DIR/`.
 
 Create a virtual environment using `python3` (commands are provided for *Debian-like* GNU/Linux distributions)
